@@ -1,11 +1,11 @@
 ## Hi there 👋 It's me Danesh
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my <a href="https://terminal-portfolio-kappa-smoky.vercel.app/" target="_blank">portfolio</a>                                                 
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on ML/AI
-- 🤔 I’m looking for help with Placements in FAANG
-- 💬 Ask me about Tech
+- 🔭 Here's my <a href="https://terminal-portfolio-kappa-smoky.vercel.app/" target="_blank">portfolio</a> <br />                                               
+- 🌱 I’m currently learning DSA <br />
+- 👯 I’m looking to collaborate on ML/AI <br />
+- 🤔 I’m looking for help with Placements in FAANG <br />
+- 💬 Ask me about Tech <br />
 - 📫 How to reach me : <br />
 <a href="https://www.linkedin.com/in/danesh-md/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
