@@ -23,4 +23,3 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/JulAmrcwXd?theme=dark&font=Athiti&ext=contest)
 
-[![Danesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Danesh-md&bg_color=050505&color=ffffff&line=5bfb6e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
