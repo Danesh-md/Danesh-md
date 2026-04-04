@@ -17,11 +17,10 @@
 
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Windows-Laptop-0078D4?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_11th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
- 
-![Danesh-md's Stats](https://github-readme-stats.vercel.app/api?username=Danesh-md&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Danesh-md)
 
 ![Danesh-md's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Danesh-md&theme=dark&hide_border=true)
 
-![Danesh-md's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danesh-md&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
